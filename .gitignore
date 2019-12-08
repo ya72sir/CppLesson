@@ -30,3 +30,10 @@
 *.exe
 *.out
 *.app
+
+01_CppArcada/Saved/
+01_CppArcada/Intermediate/
+01_CppArcada/Build/
+01_CppArcada/Binaries/
+01_CppArcada/.vs/
+
